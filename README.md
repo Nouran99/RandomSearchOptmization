@@ -1,1 +1,2 @@
 # RandomSearchOptmization
+#Random search is a family of numerical optimization methods that do not require the gradient of the problem to be optimized, and can hence be used on functions that are not continuous or differentiable. Such optimization methods are also known as direct-search, derivative-free, or black-box methods. Random search methods are those stochastic methods that rely solely on the random sampling of a sequence of points in the feasible region of the problem, according to some prespecified probability distribution, or sequence of probability distributions.
